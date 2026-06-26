@@ -1,5 +1,6 @@
 # 💫 About Me:
- Hi, I'm Akshita Lanjewar<br> Passionate Software Engineer focused on Backend Development<br> Building projects with Python, FastAPI, REST APIs, SQL, Git & GitHub<br> Currently learning DSA, System Design, Docker, PostgreSQL & AWS<br> Open to Software Engineer opportunities and Open Source collaboration 
+ Hi, I'm Akshita Lanjewar 👋
+I'm an aspiring Software Engineer passionate about building scalable software and solving real-world problems through technology. I enjoy developing backend systems, REST APIs, and full-stack web applications using Python, Django, React, JavaScript, SQL, and Git. I have hands-on experience with Data Structures & Algorithms, Object-Oriented Programming, Database Design, CI/CD, and Machine Learning. I'm continuously learning, building impactful projects, and looking for opportunities to grow as a Software Engineer.
 
 
 ## 🌐 Socials:
